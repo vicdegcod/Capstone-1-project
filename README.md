@@ -37,18 +37,20 @@ Traditional rehabilitation clinics rely on paper records. This causes several is
 
 ## Tech Stack
 ## •Language: Python
-Functions
-Object-Oriented Programming (OOP)
-Loops
-Conditional Statements
-Exception Handling
-SQLite Database
-CRUD Operations
-Date and Time handling
+- Book/cancel therapy visits.
+- Functions
+- Object-Oriented Programming (OOP)
+- Loops
+- Conditional Statements
+- Exception Handling
+- SQLite Database
+- CRUD Operations
+- Date and Time handling
 
 ## •Interface: CLI and GUI
 Streamlit
-## •Database: SQLite
+## •Database:
+ SQLite
 ## •Design Pattern: 
 Object-Oriented Programming
 
