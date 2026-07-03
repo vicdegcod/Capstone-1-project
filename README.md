@@ -12,7 +12,15 @@ Traditional rehabilitation clinics rely on paper records. This causes several is
 2.	Track patients’ data by storing health records and therapy logs securely.
 3.	Send automated reminders to patients for their upcoming therapy sessions
 4.	Scrapping data to show different types of addiction and their cost range to help manager explain to the therapists the standard price before admission.
-
+## Success criteria
+1.	Users can add, update, delete, and view client records stored in an SQLite database.
+2.	Users can add, edit, delete, and view therapist information.
+3.	Users can book therapy appointments and save them to the database.
+4.	Users can cancel appointments, and the database is updated correctly.
+5.	The system calculates and displays each client's treatment progress accurately.
+6.	Invalid input (e.g., empty names, invalid dates, incorrect email format) is rejected with appropriate error messages.
+7.	The menu is easy to navigate and responds correctly to user choices.
+8.	The program handles database and input errors without crashing.
 ## Expected System Features
 - Book/cancel therapy visits.
 - Add / Delete Patients.
