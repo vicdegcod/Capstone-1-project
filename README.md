@@ -11,6 +11,7 @@ Traditional rehabilitation clinics rely on paper records. This causes several is
 1.	Provide a dashboard where doctors can visually track a patient’s healing metrics.
 2.	Track patients’ data by storing health records and therapy logs securely.
 3.	Send automated reminders to patients for their upcoming therapy sessions
+4.	Scrapping data to show different types of addiction and their cost range to help manager explain to the therapists the standard price before admission.
 
 ## Expected System Features
 - Book/cancel therapy visits.
