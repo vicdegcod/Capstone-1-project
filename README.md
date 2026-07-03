@@ -26,12 +26,29 @@ Traditional rehabilitation clinics rely on paper records. This causes several is
 - Add / Delete Patients.
 - A section that calculates treatment progress
 - View Patient and Doctor Details
+- Update patient information.
+- Search for patients by name or patient ID.
+- Record therapy session notes.
+- View appointment history.
+- Manage therapist information.
+- View upcoming appointments.
+- Generate simple patient progress reports.
 - SQLite Database
 
 ## Tech Stack
-•	Language: Python
-•	GUI: Streamlit
-•	Interface: CLI and GUI
-•	Database: SQLite
-•	Design Pattern: Object-Oriented Programming
+## •Language: Python
+Functions
+Object-Oriented Programming (OOP)
+Loops
+Conditional Statements
+Exception Handling
+SQLite Database
+CRUD Operations
+Date and Time handling
+
+## •Interface: CLI and GUI
+Streamlit
+## •Database: SQLite
+## •Design Pattern: 
+Object-Oriented Programming
 
